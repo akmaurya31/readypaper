@@ -1,0 +1,78 @@
+[27-Dec-2023 04:57:11 UTC] PHP Fatal error:  Cannot redeclare Order_model::check_order_teacher() in /home4/readybgh/readypaper.in/readypaper/application/models/Order_model.php on line 146
+[27-Dec-2023 05:01:57 UTC] PHP Fatal error:  Cannot redeclare Order_model::check_order_teacher() in /home4/readybgh/readypaper.in/readypaper/application/models/Order_model.php on line 145
+[27-Dec-2023 05:02:18 UTC] PHP Fatal error:  Cannot redeclare Order_model::check_order_teacher() in /home4/readybgh/readypaper.in/readypaper/application/models/Order_model.php on line 145
+[12-Jan-2024 07:24:21 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_pending_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 161
+[12-Jan-2024 07:25:12 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_pending_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 161
+[12-Jan-2024 07:25:42 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_pending_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 161
+[12-Jan-2024 07:26:20 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_pending_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 163
+[13-Jan-2024 10:49:50 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_success_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 176
+[13-Jan-2024 10:50:42 UTC] PHP Fatal error:  Cannot redeclare Order_model::get_by_success_Order() in /home4/readybgh/readypaper.in/application/models/Order_model.php on line 176
+[19-Jan-2024 18:49:27 UTC] PHP Fatal error:  Cannot redeclare Plan_model::getFreePlan() in /home4/readybgh/readypaper.in/application/models/Plan_model.php on line 195
+[13-Mar-2024 18:30:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 100087072 bytes) in /home4/readybgh/readypaper.in/system/core/Exceptions.php on line 183
+[14-Mar-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 105671240 bytes) in /home4/readybgh/readypaper.in/system/core/Exceptions.php on line 183
+[15-Mar-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 109952000 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[16-Mar-2024 18:30:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 115995440 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[17-Mar-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 121707328 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[18-Mar-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 122906896 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[19-Mar-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 126942640 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[20-Mar-2024 18:30:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 269222848 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[21-Mar-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 281315784 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[22-Mar-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 282508136 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[23-Mar-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 284927712 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[24-Mar-2024 18:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 287257176 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[25-Mar-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 287257176 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[26-Mar-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289144664 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[27-Mar-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289235056 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[28-Mar-2024 18:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289390768 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[29-Mar-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289587168 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[30-Mar-2024 18:30:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289807328 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[31-Mar-2024 18:30:20 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289823832 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[01-Apr-2024 18:30:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289824008 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[02-Apr-2024 18:30:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289824008 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[03-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 289824008 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[04-Apr-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 290053832 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[05-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 290261608 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[06-Apr-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 290515248 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[07-Apr-2024 18:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 290767328 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[08-Apr-2024 18:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 291061480 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[09-Apr-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 291347664 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[10-Apr-2024 18:30:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 291643112 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[11-Apr-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 293047048 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[12-Apr-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 294325752 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[13-Apr-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 296668552 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[14-Apr-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 297180832 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[15-Apr-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 297835272 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[16-Apr-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 298530664 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[17-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 298986144 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[18-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 299315896 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[19-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 299695544 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[20-Apr-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 299697288 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[21-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 300044488 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[22-Apr-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 300610672 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[23-Apr-2024 18:30:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 301050688 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[24-Apr-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 301690472 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[25-Apr-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 302161536 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[26-Apr-2024 18:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 302185088 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[27-Apr-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 302622888 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[28-Apr-2024 18:30:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 303088168 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[29-Apr-2024 18:30:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 303574840 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[30-Apr-2024 18:30:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 304975784 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[01-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 305644112 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[02-May-2024 18:30:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 306036032 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[03-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 306461400 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[04-May-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 306959056 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[05-May-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 308476096 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[06-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 308820952 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[07-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 309209752 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[08-May-2024 18:30:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 309430040 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[09-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 309832928 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[10-May-2024 18:30:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 310194728 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[11-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 310499192 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[12-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 312362744 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[13-May-2024 18:30:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 313330776 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[14-May-2024 12:04:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home4/readybgh/readypaper.in/application/controllers/Teacher_create_pepar.php on line 90
+[14-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 313362080 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[15-May-2024 18:30:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 313029056 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[16-May-2024 18:30:22 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 314435296 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[17-May-2024 18:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 315568760 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
+[18-May-2024 18:30:20 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 316963808 bytes) in /home4/readybgh/readypaper.in/system/libraries/Email.php on line 2385
